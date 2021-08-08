@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "simple todo list that covers state, props map and filter and keyboard from react native. including font awesome"
   }
 }
